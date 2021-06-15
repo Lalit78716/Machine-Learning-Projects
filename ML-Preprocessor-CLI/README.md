@@ -19,8 +19,21 @@ This Application made to preprocess the Dataset and save you time
 * Then you will see the below home screen.
 
 ## Screenshot
-<p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+<p align="left">
+  <img src="https://github.com/Lalit78716/Machine-Learning-Projects/blob/main/ML-Preprocessor-CLI/Screenshots/Screenshot%20(498).png">
+</p>
+
+<p align="left">
+  <img src="https://github.com/Lalit78716/Machine-Learning-Projects/blob/main/ML-Preprocessor-CLI/Screenshots/Screenshot%20(499).png">
+</p>
+
+<p align="left">
+  <img src="https://github.com/Lalit78716/Machine-Learning-Projects/blob/main/ML-Preprocessor-CLI/Screenshots/Screenshot%20(500).png">
+</p>
+<p align="left">
+  <img src="https://github.com/Lalit78716/Machine-Learning-Projects/blob/main/ML-Preprocessor-CLI/Screenshots/Screenshot%20(501).png">
+</p>
+<p align="left">
+  <img src="https://github.com/Lalit78716/Machine-Learning-Projects/blob/main/ML-Preprocessor-CLI/Screenshots/Screenshot%20(502).png">
 </p>
 
