@@ -48,3 +48,7 @@ This Application made to preprocess the Dataset and save you time
 <p align="left">
   <img src="https://github.com/Lalit78716/Machine-Learning-Projects/blob/main/ML-Preprocessor-CLI/Screenshots/Screenshot%20(503).png">
 </p>
+
+<p align="left">
+  <img src="https://github.com/Lalit78716/Machine-Learning-Projects/blob/main/ML-Preprocessor-CLI/Screenshots/Screenshot%20(592).png">
+</p>
